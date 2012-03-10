@@ -1,0 +1,31 @@
+img.cover {
+	width: 66px;
+	height: 100px;
+}
+
+img.icon {
+	width: 30px;
+	height: 30px;
+}
+
+div#icons {
+	float: right;
+}
+
+div.comment_list {
+	display: none;
+}
+
+div.book {
+	min-height: 100px;
+}
+
+form {
+    display:block;
+    margin:auto;
+}
+
+div.listview {
+	margin-top: 15px;
+	margin-bottom: 20px;
+}
